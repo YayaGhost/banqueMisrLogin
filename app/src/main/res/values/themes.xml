@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BanqueMisr" parent="Theme.AppCompat.Light.NoActionBar" />
+    <style name="Theme.BanqueMisr.Transparent" parent="Theme.BanqueMisr">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/light</item>
+    </style>
+</resources>
